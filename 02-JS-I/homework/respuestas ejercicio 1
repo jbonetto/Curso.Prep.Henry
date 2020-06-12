@@ -1,0 +1,14 @@
+1
+Una variable es cuando le asiganmos un valor numerico a un objeto, como una letra. Es como un comodín en las cartas, la variable "comodin" puede ser cualquier numero de carta del maso.
+
+2
+String es una variable a la cual le definimos un valor que no es considerado como numero si no, como letra o palabra.
+
+3
+las funciones son como pequeños programitas con un codigo interno que nos devuelven un valor. A las funciones podemos ponerle nombre y agregarle argumentos.
+
+4
+las declaraciones son funciones predefinidas que se utilizan para tomar desiciones segun los argumentos que nosotros le ingresemos.
+
+5
+Los valores booleanos puede ser dos: verdadero o falso. Se utilizan cuando queremos que una funcion nos devuelva un valor utilizado en logica.
