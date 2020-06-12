@@ -1,0 +1,3 @@
+explicacion
+
+los arreglos (arrays) son variables que contienen una lista de datos de cualquier tipo: numero, booleano, string, funciones, otros arreglos, etc. Cada valor dentro de la lista tiene una posicion la cual podemos invocar y donde la primera es la posicion 0 (cero).
