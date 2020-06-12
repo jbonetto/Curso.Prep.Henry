@@ -1,0 +1,7 @@
+explicacion
+
+1
+el bucle "for" es una funcion que se utiliza para repetir un bloque de codigo hasta obtener un resultado o hasta que nosotros querramos. Se le deben ingresar 3 argumentos, que en resumen lo que hacen es iniciar un contador para repetir el bloque de codigo que va dentro de la funcion 'for' hasta que nosotros le indiquemos que pare.
+
+2
+los operadores logicos sirven para comparar dos variables booleanas y como resultado nos devuelve una nueva variable en booleano. El operador && (and) nos devuelve true cuando las dos variables ingresadas son true. El operador || (or) nos devuelve true siempre y cuando alguna variable sea true. Por ultimo el operador ! (not) es igual a la negacion en logica y lo que hace es cambiar la variable booleana al contrario, es decir true por false o al reves.
