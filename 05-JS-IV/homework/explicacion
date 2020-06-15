@@ -1,0 +1,17 @@
+explicacion
+
+
+objeto:
+Los objetos son similares a los arreglos ya que contienen informacion para esa variable especifica pero, cada valor dentro de los objetos está relacionado a una llave (key), que tenemos que definir, que nos dice la "posicion" donde está ese valor. Es decir, en arreglos sabiamos que la posicion 1 contenia el segundo valor dentro de esa variable, en el caso de los objetos la llave o key o "posicion" está definida dentro de los objetos como nosotros querramos y no en orden o predefinida como en los arreglos.
+
+propiedades:
+Las propiedades son el key o llave o "posicion" donde se encuentra un valor dentro de nuestro objeto. Puede haber varias propiedades, no se pueden repetir pero si se puede repetir un mismo valos en diferentes propiedaes.
+
+metodos:
+los metodos son funciones guardads dentro de los grupos.
+
+bucle for in:
+es un bucle al igual que para matriz pero este está relacionado con una clave;valor ya que a diferencia de las matrices que las claves son numericas y ordenadas, en objetos eso no es así ya que cada clave se puede nombrar como querramos.
+
+notaciones:
+hay dos maneras de llamar a un valor dentro de un objeto. En la notacion de puntos se pone el nombre del objeto . la clave (objeto.clave). En la notacion de corchetes se pone objeto [clave] pero siempre tiene que ingresarse como string es decir que se escribe objeto ['clave']. Lo bueno de esta anotacion es que podemos ingresar una variable por el objeto 'clave' que con la otra anotacion no.
