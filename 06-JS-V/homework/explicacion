@@ -1,0 +1,8 @@
+explicacion
+
+prototype
+Un prototype es una propiedad de las clases que nos permite aignar metodos asociados a esa clase. Es una manera de crear objetos los cuales esten asociados a metodos, pero que no los contengan. De esta manera podemos agilizar el trabajo y los recursos.
+
+_Constructors_ (de Clases)
+
+El constructor es un metodo para generar objetos dentro de una misma clase.
