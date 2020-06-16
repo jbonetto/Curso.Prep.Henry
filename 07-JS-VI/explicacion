@@ -1,0 +1,11 @@
+explicacion
+
+Callbacks son funciones que reciben como argumento otras funciones, las ejecutan y devuelven un resultado. Estas funciones callback pueden invocarse en cualquier momento y devolver el resultado del argumento (argumento 1) procesado por la funcion que tambien ingresamos como argumento en la funcion callback (argumento 2).
+
+argumento 1 = string
+argumento 2 = {function ();}
+
+function callback (argumento 1, argumento 2) {
+	return argumento 2 (argumento 1);
+}
+
