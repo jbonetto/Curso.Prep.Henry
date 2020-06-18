@@ -6,7 +6,7 @@
 }
 
 #thirdDiv {
-	color: red;
+	color: rgb(22, 21, 21);
 	height: auto;
 	max-width: 500px;
 	background-color: green;
@@ -14,7 +14,7 @@
 	border: thick double red;
 	border-width: 8px;
 	margin: auto;
-		
+	
 }
 
 #spanId {
